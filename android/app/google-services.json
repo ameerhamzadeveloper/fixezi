@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417252570036",
+    "project_id": "fixezi-b537b",
+    "storage_bucket": "fixezi-b537b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417252570036:android:7751fd5102d8e2a37778e1",
+        "android_client_info": {
+          "package_name": "com.app.fixezi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417252570036-if93qb1n78l1p3jumh0k5612nh0bt1uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0XdwrAVhHX1o8pOKAt5NiB2KMRvo6Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417252570036-if93qb1n78l1p3jumh0k5612nh0bt1uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
