@@ -6,7 +6,7 @@
         android:label="fixezi"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBzYwAW0Oxx3U8xEeLR6MRNippzFulJIo4"/>
+           android:value=""/>
         <activity
             android:showWhenLocked="true"
             android:turnScreenOn="true"
